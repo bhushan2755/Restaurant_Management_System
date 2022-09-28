@@ -1,2 +1,1 @@
-MYSQL database will be used for this project
---Password is encrypted: Original is kushal@123
+import this databases using sql command or workbench this database content dammy data for our project
